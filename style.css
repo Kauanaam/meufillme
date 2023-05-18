@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(133, 133, 133);
+    background-color: rgb(70, 66, 66);
     color: black;
 }
 h2{
@@ -15,4 +15,16 @@ h2{
    padding: 40px;
    align-content: center;
    display: block;
+}
+
+.cartaz{
+    width: 40%;
+}
+.cartazes{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.link{
+    background-color: black;
+    color: dimgrey;
 }
